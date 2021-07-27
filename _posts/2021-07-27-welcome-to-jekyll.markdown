@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Hello"
 date:   2021-07-27 14:07:19 +0900
 categories: Hyeong Yun
